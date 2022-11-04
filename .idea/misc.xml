@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AD/Project Eligtas/ELigtasPortal/app/src/main/res/layout/activity_add_data.xml" value="0.33" />
+        <entry key="..\:/AD/Project Eligtas/ELigtasPortal/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AD/Project Eligtas/ELigtasPortal/app/src/main/res/layout/activity_residents_list.xml" value="0.33" />
+        <entry key="..\:/AD/Project Eligtas/ELigtasPortal/app/src/main/res/layout/activity_update_data.xml" value="0.33" />
+        <entry key="..\:/Users/kabosu/Desktop/SIA2/ELigtasPortal/app/src/main/res/drawable/bg_rounded.xml" value="0.2235" />
+        <entry key="..\:/Users/kabosu/Desktop/SIA2/ELigtasPortal/app/src/main/res/drawable/bg_rounded2.xml" value="0.2235" />
+        <entry key="..\:/Users/kabosu/Desktop/SIA2/ELigtasPortal/app/src/main/res/drawable/bg_rounded3.xml" value="0.1655" />
+        <entry key="..\:/Users/kabosu/Desktop/SIA2/ELigtasPortal/app/src/main/res/layout/activity_add_data.xml" value="0.33" />
+        <entry key="..\:/Users/kabosu/Desktop/SIA2/ELigtasPortal/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/kabosu/Desktop/SIA2/ELigtasPortal/app/src/main/res/layout/activity_splashscreem.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/kabosu/Desktop/SIA2/ELigtasPortal/app/src/main/res/layout/activity_update_data.xml" value="0.25" />
+        <entry key="..\:/Users/kabosu/Desktop/SIA2/ELigtasPortal/app/src/main/res/layout/brgy_list.xml" value="1.0" />
+        <entry key="..\:/Users/kabosu/Desktop/SIA2/ELigtasPortal/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2235" />
+        <entry key="..\:/Users/kabosu/Desktop/SIA2/ELigtasPortal/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2235" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
